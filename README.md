@@ -16,7 +16,7 @@
 
 ## Setup/Installation Requirements
 
-* _Git clone the repo
+* _Git clone the repository
 * cd into the new directory
 * open your CLI of choice
 * run main.py
