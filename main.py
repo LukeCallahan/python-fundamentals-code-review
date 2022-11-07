@@ -45,7 +45,7 @@ def dict_sayer(dictionary):
 #  *** FUNCTION 3 | GREATEST ***
 def greatest(dictionary):
   highest_value = max(dictionary, key=dictionary.get)
-  highest_tuple = (highest_value, too_many_wheels[highest_value])
+  highest_tuple = (highest_value, dictionary[highest_value])
   return highest_tuple
   
 #  *** FUNCTION 4 | ZIPPER ***
